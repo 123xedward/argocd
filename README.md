@@ -1,4 +1,4 @@
-# argocd
+# argocd (draft)
 
 - Install minikube, check this link
 - Install argocd
