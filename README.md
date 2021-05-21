@@ -36,4 +36,5 @@
   
   
 - #reiniciamos nginx
+  
   sudo systemctl restart nginx
