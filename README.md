@@ -1,6 +1,7 @@
 # argocd (draft)
 
-- Install minikube, check this link
+- Create EKS Cluster.
+- 
 - Install argocd
 
 kubectl create namespace argocd
